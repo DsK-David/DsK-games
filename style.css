@@ -1,0 +1,18 @@
+body {
+        font-family: sans-serif;
+    font-size: 20px;
+    color:white;
+    background:black;
+    
+}
+p{
+        background:#34495e;
+        border-radius:10px;
+        text-align:center;
+}
+a{
+        color:blue;
+}
+#link{
+        color:red;
+}
